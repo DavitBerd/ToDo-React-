@@ -1,0 +1,38 @@
+.top {
+  border-radius: 10px 10px 0 0;
+  width: 100%;
+  height: 30vh; 
+  max-height: 202px; 
+  background-image: url("../../img/Rectangle2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.topin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 90%;
+  height: 80%;
+}
+
+.top1 {
+  font-family: "Russo One";
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.top2 {
+  font-family: "Russo One";
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-align: left;
+}
